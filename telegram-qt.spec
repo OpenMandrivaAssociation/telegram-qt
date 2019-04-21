@@ -21,6 +21,7 @@ BuildRequires: pkgconfig(Qt5Network)
 BuildRequires: pkgconfig(Qt5Qml)
 BuildRequires: pkgconfig(openssl)
 BuildRequires: cmake
+BuildRequires: qmake5
 
 %description
 %{summary}.
