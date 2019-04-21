@@ -20,6 +20,7 @@ BuildRequires: pkgconfig(Qt5Core)
 BuildRequires: pkgconfig(Qt5Network)
 BuildRequires: pkgconfig(Qt5Qml)
 BuildRequires: pkgconfig(openssl)
+BuildRequires: pkgconfig(zlib)
 BuildRequires: cmake
 BuildRequires: qmake5
 
